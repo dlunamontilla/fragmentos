@@ -19,7 +19,7 @@ Se le debe aplicar el siguiente estilo:
 Para instalarlo en tu proyecto utilizando `Git` puede escribir:
 
 ```shell
-git clone https://github.com/dlunamontilla/fragmentos animacion-carga
+git clone https://github.com/dlunamontilla/fragmentos.git
 ```
 
 Puede cambiar el tamaño utilizando un estilo personalizado.
